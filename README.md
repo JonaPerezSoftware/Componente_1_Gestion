@@ -13,3 +13,6 @@ Simular operaciones de gestión de configuración
 de software mediante un proyecto colaborativo.
 ## Mensaje de bienvenida
 Bienvenido a NovaSoft
+
+## Mensaje de bienvenida
+Bienvenido a NovaSoft
