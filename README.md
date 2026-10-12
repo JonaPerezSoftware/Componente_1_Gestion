@@ -11,3 +11,5 @@ Sistema web de gestión de pedidos.
 ## Objetivo
 Simular operaciones de gestión de configuración
 de software mediante un proyecto colaborativo.
+## Mensaje de bienvenida
+Hola, gestione sus pedidos con NovaSoft
